@@ -1,3 +1,3 @@
 H1 title "README: Seetharaman Gudetee Git Practice"˜
-My first change
-My Second change
+H2 "My first change"
+H3 "My Second change"
